@@ -1,0 +1,5 @@
+Debug/
+BullCowGame/Debug/
+*.db
+.vs/
+*.sln
