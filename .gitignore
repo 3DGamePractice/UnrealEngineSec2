@@ -3,3 +3,5 @@ BullCowGame/Debug/
 *.db
 .vs/
 *.sln
+*vcxproj*
+.gitignore
